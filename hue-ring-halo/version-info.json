@@ -1,8 +1,8 @@
 {
 	"formatVersion": 1,
 	"data": {
-		"latestVersion": "0.10.3",
-		"minimumSupportedVersion": "0.10.0",
+		"latestVersion": "1.0.0",
+		"minimumSupportedVersion": "1.0.0",
 		"minimumUnityVersion": "2022.3.22f1",
 		"releaseNoteUrl": "https://test.release.note.url",
 		"storeUrl": "https://test.store.url",
